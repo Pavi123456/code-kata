@@ -16,6 +16,6 @@ void main()
   }
   }
   else
-  cout<<"the output is greater than 20";
+  cout<<"the num is greater than 20";
   }
 	
