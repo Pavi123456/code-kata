@@ -20,7 +20,7 @@ int findMinLength(string arr[], int n)
 string commonPrefix(string arr[], int n)
 {
     int index = findMinLength(arr, n);
-    string prefix; // Our resultant string
+    string prefix;
     int low = 0, high = index;
  
     while (low <= high)
